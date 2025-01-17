@@ -1,4 +1,7 @@
 #include <stdio.h>
 void main(){
-printf("zdr svqt")
+    int n;
+printf("n=");
+scanf("%d",&n)
+printf ("n=%d",n);
 }
